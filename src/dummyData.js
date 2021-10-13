@@ -200,7 +200,7 @@ export const userData = [
     {
       id: 1,
       name: "Juan Ferro",
-      img:     "/abu1.jpg",
+      img: "/abu1.jpg",
       stock: 83,
       status: "active",
       price:"1.000.000",
